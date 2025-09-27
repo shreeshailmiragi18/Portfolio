@@ -23,6 +23,7 @@ import VSCode from './assets/Skills_logo/VSCode_logo.png';
 
 //about section logos
 import Photo from './assets/About/photo.jpeg';
+import profile from './assets/About/profile.png';
 
 
 //Education Section Logos
