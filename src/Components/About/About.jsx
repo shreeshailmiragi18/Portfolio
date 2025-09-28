@@ -7,7 +7,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="py-24 pb-24 px-[4vw] md:px-[2vw] lg:px-[8vw]  font sans mt-16 md:mt-24 lg:mt-15"
+      className="py-24 pb-24 px-[4vw] md:px-[2vw] lg:px-[8vw]  font-sans mt-16 md:mt-24 lg:mt-15"
     >
       <div className="flex flex-col-reverse md:flex-row justify-between items-center">
         <div className="md:w-1/2 text-center md:text-left mt-8 md:mt-0">

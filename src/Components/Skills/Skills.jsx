@@ -1,15 +1,16 @@
 import React from 'react';
 import { SkillsInfo } from '../../constants.js';
+import '/src/index.css';
 import Tilt from 'react-parallax-tilt';
 import ReactParallaxTilt from 'react-parallax-tilt';
 
 const Skills = () => {
     return (
-        <section id='skills' className='py-24 pb-24 px-[4vw] md:px-[2vw] lg:px-[8vw] font-sans bg-skills-gradient clip-path-custom '>
+        <section id='skills' className='py-24 pb-24 px-[4vw] md:px-[2vw] lg:px-[8vw] font-sans bg-skills-gradient [clip-path:polygon(0_0,100%_0,100%_90%,0_100%)]'>
             <div className="text-center mb-8">
                 <h2 className="text-3xl sm:text-4xl font-bold text-white">SKILLS</h2>
                 <div className="w-24 h-1 bg-[#8245ec] mx-auto mt-2">
-                </div>
+                 </div>
                  <p className="text-gray-400 mt-4 text-lg font-semibold">A collection of my technical skills and experties honed through various projects and learnings</p>
             </div>
             <div className="flex flex-wrap gap-1 lg:gap-5 py-10 justify-between">
