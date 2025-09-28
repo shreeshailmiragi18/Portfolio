@@ -33,6 +33,7 @@ import sarvodaya from './assets/Education_logo/sarvodaya.webp';
 //Project Section Logos
 import AI_image from './assets/Projects_logo/AI-Image.png';
 import Billing from './assets/Projects_logo/Billing.png';
+import Trade from './assets/Projects_logo/trade.jpg';
 
 
 export const SkillsInfo = [
@@ -137,7 +138,7 @@ export const SkillsInfo = [
       title: "Trade-Sathi",
       description:
         "The Treading Platform Application is a comprehensive trading platform built with Spring Boot and MySQL, designed for both novice and experienced traders. Its primary goal is to offer a seamless, user-friendly interface for trading operations. Core features include the ability for users to buy and sell assets, manage a secure wallet, view transaction history, and control their orders. The application ensures a personalized and secure experience through user registration and authentication managed by Spring Security and JWT.",
-      image: movierecLogo,
+      image:Trade ,
       tags: ["React JS", "Spring Boot", "Spring Security", "JWT", "MySQL"],
       github: "https://github.com/shreeshailmiragi18/TradeSathi",
       webapp: "",

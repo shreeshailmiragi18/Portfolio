@@ -16,6 +16,12 @@ const Navbar = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
   const handleMenuItemClick = (sectionId) => {
+    const section = document.getElementById(sectionId);
+
+
+    if (section) {
+        section.scrollIntoView({ behavior: 'smooth' });
+    }
     setActiveSection(sectionId);
     setIsOpen(false);
   };
@@ -29,7 +35,7 @@ const Navbar = () => {
   ];
   return (
     <nav
-      className={`fixed top-0 w-full z-50 transition duration-300 px-[7vw] md:px-[7vw] lg:px-[20vw] ${
+      className={`fixed top-0 w-full z-50 transition duration-300 px-[4vw] md:px-[2vw] lg:px-[8vw] ${
         isScrolled
           ? "bg-[#050414] bg-opacity-50 backdrop-blur-md shadow-md"
           : "bg-transparent"
