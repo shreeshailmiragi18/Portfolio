@@ -88,8 +88,8 @@ export const SkillsInfo = [
       school: "University of Visvesvaraya College of Engineering(UVCE), Bengaluru",
       date: "Oct 2023 - jul 2027",
       grade: "8.01 CGPA",
-      desc: "I am Persuing my B.Tech degree in Information Science and Engineering from UVCE College, Belgaluru. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
-      degree: "Bachelor of Technology - B.tech Information Science(Computer Science)",
+      desc: "I am Persuing my B.Tech degree in Information Science and Engineering from UVCE College, Belgaluru. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at UVCE College allowed me to work on projects that applied theoretical concepts to real-world problems.",
+      degree: "B.Tech Information Science(Computer Science)",
     },
     {
       id: 1,
