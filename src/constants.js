@@ -21,9 +21,7 @@ import Tailwind from './assets/Skills_logo/Tailwind_logo.png';
 import vercel from './assets/Skills_logo/vercel_logo.svg';
 import VSCode from './assets/Skills_logo/VSCode_logo.png';
 
-//about section logos
-import Photo from './assets/About/photo.jpeg';
-import profile from './assets/About/profile.png';
+
 
 
 //Education Section Logos
@@ -130,8 +128,8 @@ export const SkillsInfo = [
         "Billing Software Application is a secure and efficient system that automates invoice generation, manages products, users, and sales records, and integrates seamless payments. Built using Spring Boot, Spring Security, JWT, React, and Razorpay Payment Gateway, it ensures accurate billing, secure authentication, and a smooth user experience",
       image: Billing,
       tags: ["React JS","Bootstrap", "Spring boot", "Spring Security", "JWT", "Razorpay Payment Gateway"," MySQL", "Maven"],
-      github: "https://github.com/shreeshailmiragi18/DBMS-Project-Billing-software-",
-      webapp: "",
+      github: "https://github.com/shreeshailmiragi18/Billing-Software",
+      webapp: "https://billing-software-psi.vercel.app/",
     },
     {
       id: 2,
@@ -144,4 +142,4 @@ export const SkillsInfo = [
       webapp: "",
     },
     
-  ];  
+  ];    
