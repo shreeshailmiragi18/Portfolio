@@ -8,7 +8,7 @@ import Git from './assets/Skills_logo/Git_logo.png';
 import Github from './assets/Skills_logo/Github_logo.png';
 import HTML from './assets/Skills_logo/HTML_logo.png';
 import Intellij from './assets/Skills_logo/Intellij_logo.png';
-import Java from './assets/Skills_logo/Java_logo.png';
+import Java from './assets/Skills_logo/java_logo.png';
 import JS from './assets/Skills_logo/JS_logo.png';
 import Mysql from './assets/Skills_logo/Mysql.png';
 import n8n from './assets/Skills_logo/n8n_logo.png';
