@@ -59,8 +59,8 @@ const About = () => {
         </div>
         <div className="md:w-1/2 flex justify-center md:justify-end">
           <Tilt
-            tiltMaxAngleX={20}
-            tiltMaxAngleY={20}
+            tiltMaxAngleX={0}
+            tiltMaxAngleY={0}
             perspective={1000}
             scale={1.05}
             transitionSpeed={1000}
