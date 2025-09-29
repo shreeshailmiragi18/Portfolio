@@ -19,7 +19,7 @@ import React from './assets/Skills_logo/React_logo.png';
 import Springboot from './assets/Skills_logo/Springboot_logo.png';
 import Tailwind from './assets/Skills_logo/Tailwind_logo.png';
 import vercel from './assets/Skills_logo/vercel_logo.svg';
-import VSCode from './assets/Skills_logo/VSCode_logo.png';
+import VSCode from './assets/Skills_logo/VScode_logo.png';
 
 
 
