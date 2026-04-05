@@ -11,7 +11,6 @@ import Intellij from "./assets/Skills_logo/Intellij_logo.png";
 import Java from "./assets/Skills_logo/java_logo.png";
 import JS from "./assets/Skills_logo/JS_logo.png";
 import Mysql from "./assets/Skills_logo/Mysql.png";
-import n8n from "./assets/Skills_logo/n8n_logo.png";
 import netlify from "./assets/Skills_logo/netlify_logo.png";
 import Postman from "./assets/Skills_logo/Postman_logo.png";
 import Python from "./assets/Skills_logo/Python_logo.png";
@@ -72,7 +71,6 @@ export const SkillsInfo = [
       { name: "Vercel", logo: vercel },
       { name: "Netlify", logo: netlify },
       { name: "Docker", logo: Docker },
-      { name: "n8n", logo: n8n },
     ],
   },
 ];
