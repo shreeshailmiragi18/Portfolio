@@ -29,6 +29,7 @@ import sarvodaya from "./assets/Education_logo/sarvodaya.webp";
 import AI_image from "./assets/Projects_logo/AI-Image.png";
 import Billing from "./assets/Projects_logo/Billing.png";
 import Trade from "./assets/Projects_logo/trade.jpg";
+import Resume_Builder from "./assets/Projects_logo/Resume Builder.png";
 
 export const SkillsInfo = [
   {
@@ -144,6 +145,23 @@ export const projects = [
     image: Trade,
     tags: ["React JS", "Spring Boot", "Spring Security", "JWT", "MySQL"],
     github: "https://github.com/shreeshailmiragi18/TradeSathi",
+    webapp: "",
+  },
+  {
+    id: 3,
+    title: "Resume Builder(Backend)",
+    description:
+      "A backend system for a Resume Builder application developed using Spring Boot with Spring Security for authentication and authorization. It uses MongoDB for storing user and resume data, and integrates Redis for caching to improve performance. The backend also supports Razorpay payment integration and is containerized using Docker for scalable deployment.",
+    image: Resume_Builder,
+    tags: [
+      "Spring Boot",
+      "Spring Security",
+      "MongoDB",
+      "Redis",
+      "Razorpay",
+      "Docker",
+    ],
+    github: "https://github.com/shreeshailmiragi18/ResumeBuilder",
     webapp: "",
   },
 ];
