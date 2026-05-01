@@ -30,6 +30,7 @@ import AI_image from "./assets/Projects_logo/AI-Image.png";
 import Billing from "./assets/Projects_logo/Billing.png";
 import Trade from "./assets/Projects_logo/trade.jpg";
 import Resume_Builder from "./assets/Projects_logo/Resume Builder.png";
+import Cloud_Share from "./assets/Projects_logo/CloudShare.png";
 
 export const SkillsInfo = [
   {
@@ -127,11 +128,11 @@ export const projects = [
     tags: [
       "React JS",
       "Bootstrap",
-      "Spring boot",
+      "Spring Boot",
       "Spring Security",
       "JWT",
       "Razorpay Payment Gateway",
-      " MySQL",
+      "MySQL",
       "Maven",
     ],
     github: "https://github.com/shreeshailmiragi18/Billing-Software",
@@ -162,6 +163,25 @@ export const projects = [
       "Docker",
     ],
     github: "https://github.com/shreeshailmiragi18/ResumeBuilder",
+    webapp: "",
+  },
+  {
+    id: 4,
+    title: "Cloud Share",
+    description:
+      "A frontend application for File sharing developed using React JS. It provides a user-friendly interface for Sharing Files, Images, documents. The frontend integrates with the backend API to manage user data and file storage.",
+    image: Cloud_Share,
+    tags: [
+      "React JS",
+      "Spring Boot",
+      "mongoDB",
+      "Razorpay",
+      "Docker",
+      "Spring Security",
+      "ngrok",
+      "Clerk Auth",
+    ],
+    github: "https://github.com/shreeshailmiragi18/CloudShare",
     webapp: "",
   },
 ];
