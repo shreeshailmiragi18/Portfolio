@@ -146,7 +146,7 @@ export const projects = [
     image: Trade,
     tags: ["React JS", "Spring Boot", "Spring Security", "JWT", "MySQL"],
     github: "https://github.com/shreeshailmiragi18/TradeSathi",
-    webapp: "",
+    webapp: "https://trade-sathi.vercel.app/",
   },
   {
     id: 3,
