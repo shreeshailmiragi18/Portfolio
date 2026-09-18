@@ -20,6 +20,7 @@ import Tailwind from "./assets/Skills_logo/Tailwind_logo.png";
 import vercel from "./assets/Skills_logo/vercel_logo.svg";
 import VSCode from "./assets/Skills_logo/VScode_logo.png";
 import Kafka from "./assets/Skills_logo/apache-kafka_logo.png";
+import SpringSecurity from "./assets/Skills_logo/springSecurity_logo.png";
 
 //Education Section Logos
 import UVCE from "./assets/Education_logo/UVCE_logo.webp";
@@ -49,6 +50,7 @@ export const SkillsInfo = [
     skills: [
       { name: "Springboot", logo: Springboot },
       { name: "MySQL", logo: Mysql },
+      { name: "Spring Security", logo: SpringSecurity },
       { name: "Kafka", logo: Kafka },
     ],
   },
