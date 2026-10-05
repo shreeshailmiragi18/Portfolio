@@ -32,6 +32,7 @@ import Billing from "./assets/Projects_logo/Billing.png";
 import Trade from "./assets/Projects_logo/trade.jpg";
 import Resume_Builder from "./assets/Projects_logo/Resume Builder.png";
 import Cloud_Share from "./assets/Projects_logo/CloudShare.png";
+import Orbit from "./assets/Projects_logo/Orbit.png";
 
 export const SkillsInfo = [
   {
@@ -185,5 +186,15 @@ export const projects = [
     ],
     github: "https://github.com/shreeshailmiragi18/CloudShare",
     webapp: "https://cloud-share-liart.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Orbit",
+    description:
+      "A project management application that allows users to create and manage projects, tasks, and team members. Built with React JS for the frontend and Spring Boot for the backend, it provides a seamless experience for tracking project progress and collaboration.",
+    image: Orbit,
+    tags: ["React JS", "Spring Boot", "MySQL", "Spring Security", "JWT"],
+    github: "https://github.com/shreeshailmiragi18/Orbit",
+    webapp: "",
   },
 ];
